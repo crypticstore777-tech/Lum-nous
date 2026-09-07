@@ -1,0 +1,1 @@
+import{n as e}from"./routes-D3fcBk2Q.js";export{e as recordComposite};
